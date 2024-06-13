@@ -25,7 +25,7 @@ Make Responsive Website using ReactJS & Bootstrap .\
 
 ### `npm i react-router-dom`
 
-### `npm i react-router-dom`
+### `npm i react-bootstrap`
 
 ### navbar
 
