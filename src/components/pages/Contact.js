@@ -1,6 +1,7 @@
 //shortcut rsf
 //resource (https://react-bootstrap.github.io/docs/components/buttons)
 //resource(https://react-bootstrap.github.io/docs/layout/grid)
+//resource (https://www.npmjs.com/package/react-fast-marquee)
 import React from "react";
 import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
