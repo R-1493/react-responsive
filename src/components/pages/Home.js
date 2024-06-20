@@ -32,7 +32,7 @@ var HomeData = [
 
 function Home() {
   return (
-    <section id="home" className="hero-block">
+    <section id="home" className="hero-block" style={{ marginBottom: "50px" }}>
       <Carousel>
         {HomeData.map((Data) => {
           return (

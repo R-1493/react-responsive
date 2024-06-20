@@ -18,7 +18,11 @@ function About() {
   const UiUx = 95;
 
   return (
-    <section id="about" className="block about-block">
+    <section
+      id="about"
+      className="block about-block"
+      style={{ marginBottom: "70px" }}
+    >
       <Container fluid>
         <div className="title-holder text-center">
           <h2>About</h2>

@@ -28,6 +28,14 @@ Make Responsive Website using ReactJS & Bootstrap .\
 
 ### `npm i react-router-dom`
 
+### `npm install -D tailwindcss` and `npx tailwindcss init`
+
+https://tailwindcss.com/docs/installation
+
+### `npm i react-fast-marquee`
+
+https://www.npmjs.com/package/react-fast-marquee
+
 ### navbar
 
 (https://getbootstrap.com/docs/5.3/components/navbar/)./
