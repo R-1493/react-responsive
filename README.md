@@ -20,15 +20,14 @@ shortcut react visual studio extensions.\
 
 ### `npm install bootstrap@5.3.3`
 
+### `npm i react-bootstrap`
+
 (https://getbootstrap.com/).
 Make Responsive Website using ReactJS & Bootstrap .\
+(https://react-bootstrap.github.io/)
 
 ### `npm i react-router-dom`
-
-### `npm i react-bootstrap`
 
 ### navbar
 
 (https://getbootstrap.com/docs/5.3/components/navbar/)./
-
-

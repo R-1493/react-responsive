@@ -12,6 +12,8 @@ function App() {
       </header>
       <main>
         <Home />
+
+        <About />
       </main>
     </div>
   );

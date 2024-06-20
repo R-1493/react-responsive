@@ -1,4 +1,4 @@
-// shortcut rsf
+//shortcut rsf
 //recourse ( https://react-bootstrap.github.io/docs/components/carousel )
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
